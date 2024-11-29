@@ -1,0 +1,5 @@
+document.txt
+photo.jpg
+archive.zip
+notes.txt
+image.png

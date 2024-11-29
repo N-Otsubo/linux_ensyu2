@@ -1,0 +1,4 @@
+2024-11-01 ERROR Server failed to start
+2024-11-01 INFO User login successful
+2024-11-02 WARN Disk space low
+2024-11-03 ERROR Out of memory
